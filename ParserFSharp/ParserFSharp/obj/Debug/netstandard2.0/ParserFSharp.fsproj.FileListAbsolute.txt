@@ -1,0 +1,16 @@
+C:\Users\Dreampopper\safu\3 курс 2 семестр\функциональное прогр\ParserFSharp\ParserFSharp\bin\Debug\netstandard2.0\ParserFSharp.deps.json
+C:\Users\Dreampopper\safu\3 курс 2 семестр\функциональное прогр\ParserFSharp\ParserFSharp\bin\Debug\netstandard2.0\ParserFSharp.dll
+C:\Users\Dreampopper\safu\3 курс 2 семестр\функциональное прогр\ParserFSharp\ParserFSharp\bin\Debug\netstandard2.0\ParserFSharp.pdb
+C:\Users\Dreampopper\safu\3 курс 2 семестр\функциональное прогр\ParserFSharp\ParserFSharp\obj\Debug\netstandard2.0\ParserFSharp.fsprojAssemblyReference.cache
+C:\Users\Dreampopper\safu\3 курс 2 семестр\функциональное прогр\ParserFSharp\ParserFSharp\obj\Debug\netstandard2.0\ParserFSharp.AssemblyInfoInputs.cache
+C:\Users\Dreampopper\safu\3 курс 2 семестр\функциональное прогр\ParserFSharp\ParserFSharp\obj\Debug\netstandard2.0\ParserFSharp.AssemblyInfo.fs
+C:\Users\Dreampopper\safu\3 курс 2 семестр\функциональное прогр\ParserFSharp\ParserFSharp\obj\Debug\netstandard2.0\ParserFSharp.dll
+C:\Users\Dreampopper\safu\3 курс 2 семестр\функциональное прогр\ParserFSharp\ParserFSharp\obj\Debug\netstandard2.0\ParserFSharp.pdb
+C:\Users\Dreampopper\safu\3 курс 2 семестр\функциональное прогр\КП\DrawingParser\ParserFSharp\ParserFSharp\bin\Debug\netstandard2.0\ParserFSharp.deps.json
+C:\Users\Dreampopper\safu\3 курс 2 семестр\функциональное прогр\КП\DrawingParser\ParserFSharp\ParserFSharp\bin\Debug\netstandard2.0\ParserFSharp.dll
+C:\Users\Dreampopper\safu\3 курс 2 семестр\функциональное прогр\КП\DrawingParser\ParserFSharp\ParserFSharp\bin\Debug\netstandard2.0\ParserFSharp.pdb
+C:\Users\Dreampopper\safu\3 курс 2 семестр\функциональное прогр\КП\DrawingParser\ParserFSharp\ParserFSharp\obj\Debug\netstandard2.0\ParserFSharp.fsprojAssemblyReference.cache
+C:\Users\Dreampopper\safu\3 курс 2 семестр\функциональное прогр\КП\DrawingParser\ParserFSharp\ParserFSharp\obj\Debug\netstandard2.0\ParserFSharp.AssemblyInfoInputs.cache
+C:\Users\Dreampopper\safu\3 курс 2 семестр\функциональное прогр\КП\DrawingParser\ParserFSharp\ParserFSharp\obj\Debug\netstandard2.0\ParserFSharp.AssemblyInfo.fs
+C:\Users\Dreampopper\safu\3 курс 2 семестр\функциональное прогр\КП\DrawingParser\ParserFSharp\ParserFSharp\obj\Debug\netstandard2.0\ParserFSharp.dll
+C:\Users\Dreampopper\safu\3 курс 2 семестр\функциональное прогр\КП\DrawingParser\ParserFSharp\ParserFSharp\obj\Debug\netstandard2.0\ParserFSharp.pdb

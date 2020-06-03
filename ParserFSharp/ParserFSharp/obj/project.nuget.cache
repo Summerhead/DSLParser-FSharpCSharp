@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "06ADuN6D5G4HBri8Bo/vhm8jRVaDyhwwvcvdkppthYY86ziwFajVHaQXWEkzWdOBqhHu+Q4N1eUY77XAfqWFyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dreampopper\\safu\\3 курс 2 семестр\\функциональное прогр\\КП\\DrawingParser\\ParserFSharp\\ParserFSharp\\ParserFSharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dreampopper\\.nuget\\packages\\fsharp.core\\4.7.1\\fsharp.core.4.7.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
